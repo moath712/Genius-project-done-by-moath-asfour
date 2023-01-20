@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319277013970",
+    "project_id": "genius-24d2d",
+    "storage_bucket": "genius-24d2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319277013970:android:7f8b7cc6551c784a5dc60b",
+        "android_client_info": {
+          "package_name": "com.example.loginui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319277013970-p8jr48eg7i500nktv9to562buouia5ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYtnO_sOJiEmgqz8CdIaVy-w3lFM74rY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319277013970-p8jr48eg7i500nktv9to562buouia5ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
